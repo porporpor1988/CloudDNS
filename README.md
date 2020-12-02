@@ -8,3 +8,4 @@ sawaddee
 
 ![alt text](IMG/pic2.png)
 ![alt text](IMG/test.png)
+![alt text](IMG/pic2.png)
