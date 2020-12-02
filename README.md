@@ -7,3 +7,4 @@ sawaddee
 เลือก Free DNS 
 
 ![alt text](IMG/pic2.png)
+![alt text](IMG/test.png)
